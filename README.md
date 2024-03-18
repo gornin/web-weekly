@@ -9,3 +9,7 @@
 - [科技爱好者周刊-阮一峰](https://github.com/ruanyf/weekly)
 
 - [潮流周刊-tw93](https://weekly.tw93.fun/)
+
+- [云谦](https://sorrycc.com/)
+
+- [写代码的宝哥](https://www.yuque.com/zhangbao/weekly)

@@ -38,7 +38,7 @@ Chrome extension that records your browser interactions and generates a Playwrig
 
 [markdown-nice](https://editor.mdnice.com/) markdown行文，转成各平台文章格式，复制去发布，支持换主题
 
-[excalidraw](https://excalidraw.com/) 绘图工具
+[excalidraw](https://excalidraw.com/) web在线绘图工具
 
 ## 写代码片段
 
