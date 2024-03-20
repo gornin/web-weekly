@@ -37,6 +37,8 @@ Language Reactor is a powerful toolbox for learning languages. It helps you to d
 
 [js -> python](https://luckrnx09.com/python-guide-for-javascript-engineers/zh-cn/)
 
+[A姐分享](https://www.ahhhhfs.com/)
+
 ## github
 
 [programmer knowledge](https://github.com/mtdvio/every-programmer-should-know)
