@@ -44,6 +44,9 @@ Language Reactor is a powerful toolbox for learning languages. It helps you to d
 [programmer knowledge](https://github.com/mtdvio/every-programmer-should-know)
 程序员应该知道的计算机科学、算法数据结构、分布式、正则、安全、可用性、代码设计、工程哲学
 
+[Awesome Prompts](https://github.com/ai-boost/awesome-prompts)
+开源OpenAI GPT Store优质ChatGPT提示词库，这个很好啊，好的prompt能正准确快速的得到想要的答案。
+
 ## CSS
 
 ```css
