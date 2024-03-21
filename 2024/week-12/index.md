@@ -6,7 +6,6 @@
 
 [国光的 macOS Ventura 13 优化配置（基于 ARM 平台）](https://www.sqlsec.com/2023/07/ventura.html)
 
-
 ## 大佬
 
 [国光](https://www.sqlsec.com/about/)
@@ -39,6 +38,9 @@ Language Reactor is a powerful toolbox for learning languages. It helps you to d
 
 [A姐分享](https://www.ahhhhfs.com/)
 
+[AI时间线如何使用](http://www.ai-timeline.top/)
+AI时间线是一款基于AI将某个事件以时间线的方式产出的AI网站，根据关键词生成时间线的在线AI工具，是作者在过年期间利用半天时间开发出来的AI产品，前端就是html+css+jquery，后端主要就是java、springboot，AI时间线结果支持图片导出。
+
 ## github
 
 [programmer knowledge](https://github.com/mtdvio/every-programmer-should-know)
@@ -46,6 +48,12 @@ Language Reactor is a powerful toolbox for learning languages. It helps you to d
 
 [Awesome Prompts](https://github.com/ai-boost/awesome-prompts)
 开源OpenAI GPT Store优质ChatGPT提示词库，这个很好啊，好的prompt能正准确快速的得到想要的答案。
+
+[ChatGPT提示词生成器](https://mitenmit.github.io/gpt/)
+GPT Prompting是一个在线ChatGPT提示词生成器，支持 ChatGPT、Bard、Claude2 等提示词模板在线生成，内置各种角色模版，选择合适的提示词模版，按需填入需求即可生成相应的提示词，直接复制使用即可，不过暂不支持中文。
+
+[AI时间线如何使用](https://github.com/zhugezifang/ai_timeline)
+
 
 ## CSS
 
