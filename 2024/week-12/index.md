@@ -41,6 +41,15 @@ Language Reactor is a powerful toolbox for learning languages. It helps you to d
 [AI时间线如何使用](http://www.ai-timeline.top/)
 AI时间线是一款基于AI将某个事件以时间线的方式产出的AI网站，根据关键词生成时间线的在线AI工具，是作者在过年期间利用半天时间开发出来的AI产品，前端就是html+css+jquery，后端主要就是java、springboot，AI时间线结果支持图片导出。
 
+[StockCake](https://stockcake.com/)
+AI 生成的免费图像素材网站，无限的无版权图片免费下载。
+
+[2023 JavaScript Rising Stars](https://risingstars.js.org/2023/zh)
+2023 年 JavaScript 生态的趋势，各个项目过去 12 个月在 GitHub 上获得的 star
+
+[best of js](https://bestofjs.org/)
+A place to find the best open source projects related to the web platform: JS, HTML, CSS, but also TypeScript, Node.js, Deno, Bun...
+
 ## github
 
 [programmer knowledge](https://github.com/mtdvio/every-programmer-should-know)
@@ -53,6 +62,9 @@ AI时间线是一款基于AI将某个事件以时间线的方式产出的AI网�
 GPT Prompting是一个在线ChatGPT提示词生成器，支持 ChatGPT、Bard、Claude2 等提示词模板在线生成，内置各种角色模版，选择合适的提示词模版，按需填入需求即可生成相应的提示词，直接复制使用即可，不过暂不支持中文。
 
 [AI时间线如何使用](https://github.com/zhugezifang/ai_timeline)
+
+[github1s](github1s.com/facebook/react)
+只要在 GitHub 仓库域名后面加上1s，比如github1s.com/facebook/react，就能在浏览器里面使用 VS Code 环境，浏览这个仓库的代码。
 
 
 ## CSS
