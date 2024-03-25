@@ -50,6 +50,16 @@ AI 生成的免费图像素材网站，无限的无版权图片免费下载。
 [best of js](https://bestofjs.org/)
 A place to find the best open source projects related to the web platform: JS, HTML, CSS, but also TypeScript, Node.js, Deno, Bun...
 
+[cheat sheet 大全](http://www.cheat-sheets.org/)
+
+[html spec](https://html.spec.whatwg.org/multipage/)
+
+[Developer Roadmap](https://roadmap.sh/)
+
+[w3schools](https://www.w3schools.com/)
+
+[inkscape](https://inkscape.org/)
+
 ## github
 
 [programmer knowledge](https://github.com/mtdvio/every-programmer-should-know)
@@ -124,6 +134,8 @@ html video {
 [开发tools](https://it-tools.tech/)
 
 [简历制作](https://rxresu.me/)
+
+[Gmeek快速上手](https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html)
 
 ## 生活
 

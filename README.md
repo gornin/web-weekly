@@ -13,3 +13,14 @@
 - [云谦](https://sorrycc.com/)
 
 - [写代码的宝哥](https://www.yuque.com/zhangbao/weekly)
+
+## 分类
+
+- 封面图
+- 科技动态
+- 文章
+- 工具
+- 资源
+- 图片
+- 文摘
+- 言论
